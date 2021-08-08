@@ -1,4 +1,5 @@
 ### Hi there 👋
+**I am Hanson Kibet** With a lot of passion in Java programming and development.
 
 <!--
 **hansonkib/hansonkib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
